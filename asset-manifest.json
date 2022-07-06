@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dec_FundMe-ptt/static/css/main.835a86b9.css",
+    "main.js": "/dec_FundMe-ptt/static/js/main.40525c66.js",
+    "static/media/card.png": "/dec_FundMe-ptt/static/media/card.6d4ee8463dc537234dda.png",
+    "index.html": "/dec_FundMe-ptt/index.html",
+    "main.835a86b9.css.map": "/dec_FundMe-ptt/static/css/main.835a86b9.css.map",
+    "main.40525c66.js.map": "/dec_FundMe-ptt/static/js/main.40525c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835a86b9.css",
+    "static/js/main.40525c66.js"
+  ]
+}
